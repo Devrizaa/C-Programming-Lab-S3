@@ -1,3 +1,3 @@
 # C-Programming-Lab-S3
-Hello 
--list
+## Hello 
+- list
